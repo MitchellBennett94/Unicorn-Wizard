@@ -31,16 +31,10 @@ You will need the following to run this game:
 
 3\.  Run compiler with Debug main option near public class section at top of code.
 
-\*Needs to be ran in debug main (CLASS)
+\*Run in terminal
 
-
-
-Game will run in terminal
 
 Upon starting the game, you will be prompted for input. The game is controlled by typing commands into the terminal.
-
-
-
 
 
 **Usage:**
@@ -51,11 +45,12 @@ With each answer the player will need to match the location with the ingredient.
 
 All while making sure not to guess too many times, or not guessing an ingredient if not existent of location.
 
-Each location the player will have a chance of encountering an enemy player, who can cause attack damage.
+Each location the player will have a chance of encountering an enemy player, who can cause attack damage such as goblins and boss battles.
 
 The combat is based on a attack and defend mechanic that is accomplished with in-text prompt.
 
 Finally the player will need to solve the latin riddle to cast the healing spell for the unicorn.
+
 
 
 
@@ -111,15 +106,15 @@ Goblin HP: 13
 
 **Future Improvements:**
 
-I would like to add more complex combat and a health bar for players at each location.
+I would like to add more complex combat for the goblin at each location.
 
-This would include different attack damages,  turn-based stratedgy style mechanics.
+This would include different attack damages, with turn-based stratedgy style mechanics.
 
-The locations could also have a if-else branching to give depth of exploration with story changing.
+Also adding more riddles at each location to help with gameplay replayability.
 
-Or creating a multi dimensional riddle for making a spell cast.
+I would also like to add dialogue options to give more realistic presence of characters enemy and player alike.
 
-I would also like to add more bridging story structure to make the game become more fluid throughout.
+
 
 
 

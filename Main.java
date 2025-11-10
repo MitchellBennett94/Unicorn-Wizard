@@ -361,6 +361,8 @@ public class Main {
             System.out.println("\nAs you finish healing the unicorn, a dark presence looms nearby.");
             System.out.println("The Evil Sorcerer, the one who harmed the unicorn, emerges to challenge you!");
             bossBattle(in, name, playerHealth, playerAttack, playerDefense, "Evil Sorcerer", 61, 15, 8);
+
+            System.out.println();
         
         }
     }
